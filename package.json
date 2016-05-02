@@ -1,0 +1,14 @@
+{
+  "name": "addwatermask",
+  "version": "1.0.0",
+  "description": "batch add water mask to images",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chaochao",
+  "license": "ISC",
+  "dependencies": {
+    "images": "^2.1.11"
+  }
+}
