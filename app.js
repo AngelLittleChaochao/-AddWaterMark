@@ -3,7 +3,7 @@ var images = require('images');
 var path = require('path');
 
 // set watermark file
-var watermarkImg = images(path.join(__dirname, 'watermark/no.png'));
+var watermarkImg = images(path.join(__dirname, 'watermark/yes.png'));
 
 // set source file folder
 var source = path.join(__dirname, 'src');
